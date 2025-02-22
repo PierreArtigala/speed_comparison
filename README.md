@@ -6,7 +6,7 @@ The project has been run on MacOS Sonoma 14.4.1, using Python 3.11.8 and C++17.
 
 Libraries required:
 - `pybind11` to run C++ in Python.
-- `snakeviv` for profiling.
+- `snakeviz` for profiling.
 
 ## Compiling C++ code with CMake.
 
